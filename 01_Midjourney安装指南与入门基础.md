@@ -4,7 +4,7 @@
 
    ![image-20230705194521060](https://picture-cloud-master.oss-cn-hangzhou.aliyuncs.com/img202307051945277.png)
 
-2. 一些拍起来比较麻烦或很难拍出来的图
+2. 生成一些拍起来比较麻烦或很难拍出来的图
 
    ![image-20230705194308097](https://picture-cloud-master.oss-cn-hangzhou.aliyuncs.com/img202307051943462.png)
 
